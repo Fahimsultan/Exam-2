@@ -1,0 +1,135 @@
+.tab{text-align: center;
+	background: #e6e6e6;
+}
+
+.search{width: 100%;
+	background: #0086b3;
+}
+
+.menu ul li{display: inline-block;
+	padding: 10px 2px;
+	color: white;
+	font-weight: bold;
+}
+
+.form_message{
+	margin-top: 10px;
+	border-radius: 15px;
+	box-shadow: none;
+	position: relative;
+	border: 1px solid white;
+	color: white;
+	padding: 5px 0px;
+	background: #0086b3;
+
+
+ }
+
+
+ .btn_search{background: transparent;
+ 	border-radius: 30px;
+ 	position: absolute;
+ 	top: 14px;
+ 	right: 39px;
+ 	border: none;
+ 	box-shadow: none;
+
+ }
+
+ .header{background: #f2f2f2;}
+
+ .header1{
+ 	margin-top: 30px; 
+ 	/*border: 2px solid black;*/
+ 	width: 100%;
+ 	padding: 0px 10px;
+
+ }
+ .header1 h2{font-size: 20px;
+ 	font-weight: bold;
+ 	text-align: center;
+ }
+
+ .header1 h6{text-align: justify;}
+
+ .fb{padding: 2px 1px;
+ 	font-size: 20px;
+ 	text-align: center;
+ 	margin-left: 2px;
+ 	
+ 	color: blue;
+ }
+
+ .text{margin-left: 230px;
+ 	
+ }
+
+ .insert{margin-left: 280px;
+ 	
+ }
+
+ .text h5{font-weight: bold;
+ 	/*font-size: 20px;*/
+
+ }
+
+
+ .btn_save{
+ 	padding: 10px 18px;
+ 	color: white;
+ 	background: #00ace6;
+ 	transform: translate(460%);
+ 	box-shadow: none;
+ 	border: none;
+ 	border-radius: 3px;
+ }
+
+ .form_login{padding: 0px 80px;
+ 	padding-left: 0px;
+ }
+ .share{
+ margin-top: 10px;
+ margin-left: -20px;
+width: 100%;
+
+
+ }
+
+
+ .share ul li{
+ 	font-weight: bold;
+
+
+
+
+ }
+ .share ul li span{display: block;
+ 	font-weight: normal;
+ }
+
+ .z{
+ 	float: right;
+ 	margin-top: -30px;
+ }
+
+  .share1{
+ margin-top: 10px;
+ margin-left: -20px;
+width: 100%;
+
+
+ }
+
+.share1 ul li span{
+	padding-left: 0px 35px;
+	margin-top: -2px;
+
+
+}
+
+
+
+  .x{
+ 	margin-top: 2px;
+ 	
+ }
